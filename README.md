@@ -1,4 +1,4 @@
-# NLP-Log's
+# NLP-Algorithm's
 
 1. Viterbi Algorithm 
 2. Document Similarity
